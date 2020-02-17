@@ -163,5 +163,11 @@ module PGN
         [\?!][\?!]?   # support the most used annotations directly
       /x
     )
+
+    rule(
+      winning_annotation_glyph: /
+        +-|-+
+      /
+    )
   end
 end
