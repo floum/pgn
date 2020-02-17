@@ -10,3 +10,17 @@
 Nbd7 9.d3 Qc7 10.Nc3 a6 11.a4 Rb8 12.e4 Bd6 13.Qe2 O-O 14.Rae1 Ne5 15.Nd2 
 Rfd8 16.f4 Nxd3 17.Qxd3 Bxf4 18.Nd5 Bxd2 19.Qxd2 exd5 {Diagram} 20.Rxf6! 
 gxf6 21.Bxf6 +- *
+
+[Event "#4470 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Cienfuegos"]
+[Date "1977.??.??"]
+[Round "-"]
+[White "Dorfman"]
+[Black "Romanisin"]
+[Result "*"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Bg4 5.Bd3 Nc6 6.d5 Ne5 7.Be2 Nxf3+ 8.gxf3 
+Bh5 9.Bb5+ Kf8 10.O-O e6 11.dxe6 fxe6 12.Be2 Qh4 13.Kh1 {Diagram} 13...
+Bxf3+! -+ 
+    ( 13...Bxf3+ 14.Bxf3 Be5 -+ )
+*

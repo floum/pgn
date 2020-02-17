@@ -164,6 +164,6 @@ module PGN
       /x
     )
 
-    rule(white_is_winning: /\+-/).skip!
+    rule(winning_annotation: /\+-|-\+/).skip!
   end
 end
