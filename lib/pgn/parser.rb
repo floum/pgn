@@ -164,6 +164,6 @@ module PGN
       /x
     )
 
-    rule(winning_annotation: /\+-|-\+/).skip!
+    rule(winning_annotation: /\+-|-\+|=/).skip!
   end
 end

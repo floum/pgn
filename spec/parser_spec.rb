@@ -91,8 +91,8 @@ describe PGN do
       last_pos.to_fen.to_s.should == '5rkn/5p1p/2b2NpP/8/2B5/1P6/2PP3P/1K6 b - - 0 4'
     end
 
-    it 'should handle winning annotations' do
-      games = PGN.parse(File.read('./spec/pgn_files/winning_annotation.pgn'))
+    it 'should handle evaluation annotations' do
+      games = PGN.parse(File.read('./spec/pgn_files/position_evaluations.pgn'))
 
     end
   end

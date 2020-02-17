@@ -24,3 +24,17 @@ Bh5 9.Bb5+ Kf8 10.O-O e6 11.dxe6 fxe6 12.Be2 Qh4 13.Kh1 {Diagram} 13...
 Bxf3+! -+ 
     ( 13...Bxf3+ 14.Bxf3 Be5 -+ )
 *
+
+[Event "#4823 Chess: 5334 Problems, Combinations, and Games by László Polgár"]
+[Site "Vienna"]
+[Date "1948.??.??"]
+[Round "-"]
+[White "Soyka"]
+[Black "Toth"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Nxf7 {Diagram} 5...Bxf2+! 6.Kxf2 
+Nxe4+ 7.Kg1 Qh4 8.Qf1 
+    ( 8.g3! Nxg3 9.Nxh8 d5 10.hxg3 Qxg3+ 11.Kf1 Bh3+ 12.Rxh3 Qxh3+ 13.Kg1 
+    Qg3+ 14.Kh1 = )
+8...Rf8 9.d3 Nd6 10.Nxd6+ cxd6 11.Qe2 Nd4 12.Qd2 Qg4 -+ 0-1
